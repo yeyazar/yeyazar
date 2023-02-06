@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Yavuz Eren Yazar</h1>
-<h3 align="center">I'm a Full-Stack Developer with an Electronics Engineering Degree from Germany.</h3>
+<h3 align="center">I'm a Full-Stack Developer with an Electronics Engineering Degree.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
