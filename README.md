@@ -22,3 +22,13 @@
   <a href="https://github.com/yeyazar/googlelandingpage">Google Landing Page</a><br><br>
   <a href="https://github.com/yeyazar/netflixsurveyform">Netflix Survey Form</a><br><br>
 </details>
+
+<details align="center">
+  <summary>
+    <img alt="React" width="20px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+    <h3>HTML/CSS PROJECTS</h3>
+    <img alt="React" width="20px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+  </summary>
+  <br>
+  <a href="https://yeyazar.github.io/Horoscope/">Horoscope</a><br><br>
+</details>
