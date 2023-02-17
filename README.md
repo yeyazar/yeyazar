@@ -26,7 +26,7 @@
 <details align="center">
   <summary>
     <img alt="React" width="20px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-    <h3>HTML/CSS PROJECTS</h3>
+    <h3>REACT PROJECTS</h3>
     <img alt="React" width="20px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
   </summary>
   <br>
