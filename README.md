@@ -46,7 +46,7 @@
   </summary>
   <br>
   <a href="https://yeyazar.github.io/Horoscope/">Horoscope</a><br>
-  <a href="https://yeyazar.github.io/Tour-Places/">Horoscope</a><br>
+  <a href="https://yeyazar.github.io/Tour-Places/">Tour Places</a><br>
   
   
   <br>
