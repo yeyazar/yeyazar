@@ -45,5 +45,9 @@
     <img alt="React" width="20px" style="padding-right:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
   </summary>
   <br>
-  <a href="https://yeyazar.github.io/Horoscope/">Horoscope</a><br><br>
+  <a href="https://yeyazar.github.io/Horoscope/">Horoscope</a><br>
+  <a href="https://yeyazar.github.io/Tour-Places/">Horoscope</a><br>
+  
+  
+  <br>
 </details>
