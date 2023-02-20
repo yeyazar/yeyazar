@@ -47,6 +47,7 @@
   <br>
   <a href="https://yeyazar.github.io/Horoscope/">Horoscope</a><br><br>
   <a href="https://yeyazar.github.io/Tour-Places/">Tour Places</a><br><br>
+  <a href="https://yeyazar.github.io/nba-legends/">NBA Legends</a><br><br>
   
   
   <br>
