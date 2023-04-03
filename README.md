@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500" to="#gif"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Yavuz Eren Yazar
+## 👷🏻‍♀️👋🏻 I'm Yavuz Eren Yazar
 
 <font color="pink"> 🐱‍🏍 I'm Front-End Developer, Electronics Engineer </font>
 </br>
