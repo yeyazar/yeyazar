@@ -106,9 +106,7 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyazar&layout=compact"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyazar&theme=blue-green"
      alt=""
      /> <br/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyazar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
