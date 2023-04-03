@@ -106,7 +106,9 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyazar&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyazar&layout=compact"
      alt=""
      /> <br/>
 </div>
+
+
