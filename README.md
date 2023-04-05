@@ -78,6 +78,7 @@
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
+[React - Redux - Material UI](https://delicate-nougat-227f7a.netlify.app/) <h3>[Repo](https://github.com/yeyazar/stock-app)</h3> | React - Redux - Router - Material UI - Formik - Yup |<img src="https://ibb.co/mqf9Pd4" align="right" width="500">
 [React - Bootstrap](https://react-project-movie-app-bootstrap.netlify.app/) <h3>[Repo](https://react-project-movie-app-bootstrap.netlify.app/)</h3> | React - Bootstrap - Router - Firebase - Context - Pagination |<img src="https://media.giphy.com/media/n1P8giTvphrEyY1qOI/giphy.gif" align="right" width="500">
 [React - State - Hook - Axios](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - State - Hook - Axios |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ0MjE0MGQ0ZDFhYTljYTNlMWQ5Mjg0NjFmMjE5YmY5YWJhMmYyZSZjdD1n/OPnmDkddWdAKIIPoUv/giphy.gif" align="right" width="500">
 [React - State - Hook](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - State - Hook |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwNmQ0MjY1MDkwOTg1MWE4MTAwNzZjMmRlZmFhYmY3MGM5Yjk0ZiZjdD1n/3FPtOfbd7ZSbTAZkfi/giphy.gif" align="right" width="500">
